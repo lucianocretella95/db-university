@@ -4,7 +4,10 @@
   box-sizing: border-box;
 }
 
+.diagram img {
+  width: 50rem;
+}
+
 .diagram {
-  width: 15rem;
   text-align: center;
 }
