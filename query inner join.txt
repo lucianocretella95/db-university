@@ -1,0 +1,5 @@
+1)SELECT * FROM `departments`
+INNER JOIN `students`
+ON departments.name = "economia";  (CONTROLLARE)
+
+2)
