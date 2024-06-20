@@ -1,0 +1,7 @@
+1)SELECT * FROM `students` GROUP BY enrolment_date;
+
+2)SELECT * FROM `teachers` GROUP BY office_address;
+
+3)SELECT AVG(vote) FROM `exam_student`;
+
+4)SELECT COUNT(name) FROM `departments`;
